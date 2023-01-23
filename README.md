@@ -18,3 +18,17 @@
 5. Когортный анализ пользователей. В период с января по декабрь необходимо выявить когорту с самым высоким retention на 3й месяц.
 
 6. RFM-сегментация пользователей.
+
+Ход анализа и результаты представлены в файле `E-commerce.ipynb`
+
+Когортный анализ retention по количеству покупок:
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/105938839/214079972-9d8a5a67-8d9f-4607-867a-d905e5e68720.png">
+
+Когортный анализ retention по сумме покупок:
+<img width="1017" alt="image" src="https://user-images.githubusercontent.com/105938839/214080852-cdf26e97-2a6f-48e9-a5d4-dbfd4c1fd710.png">
+
+Когортный анализ по среднему чеку:
+<img width="1021" alt="image" src="https://user-images.githubusercontent.com/105938839/214081145-60dc687a-f977-49b5-b405-7a2c402003e0.png">
+
+Сегменты по RFM анализу:
+<img width="1020" alt="image" src="https://user-images.githubusercontent.com/105938839/214081943-a7946ecd-1261-414d-951f-092afccfe284.png">
