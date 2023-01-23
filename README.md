@@ -19,7 +19,7 @@
 
 6. RFM-сегментация пользователей.
 
-Ход анализа и результаты представлены в файле `E-commerce.ipynb`
+**Ход анализа и результаты представлены в файле** `E-commerce.ipynb`
 
 Когортный анализ retention по количеству покупок:
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/105938839/214079972-9d8a5a67-8d9f-4607-867a-d905e5e68720.png">
